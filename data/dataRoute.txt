@@ -1,0 +1,96 @@
+{
+  "departureCity": "Jakarta",
+  "arrivalCity": "Surabaya",
+  "departureAirport": "Soekarno Hatta",
+  "arrivalAirport": "Djuanda",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Surabaya",
+  "arrivalCity": "Jakarta",
+  "departureAirport": "Djuanda",
+  "arrivalAirport": "Soekarno Hatta",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Jakarta",
+  "arrivalCity": "Bali",
+  "departureAirport": "Soekarno Hatta",
+  "arrivalAirport": "Ngurah Rai",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Bali",
+  "arrivalCity": "Jakarta",
+  "departureAirport": "Ngurah Rai",
+  "arrivalAirport": "Soekarno Hatta",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Jakarta",
+  "arrivalCity": "Pontianak",
+  "departureAirport": "Soekarno Hatta",
+  "arrivalAirport": "Supadio",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Pontianak",
+  "arrivalCity": "Jakarta",
+  "departureAirport": "Supadio",
+  "arrivalAirport": "Soekarno Hatta",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Surabaya",
+  "arrivalCity": "Bali",
+  "departureAirport": "Djuanda",
+  "arrivalAirport": "Ngurah Rai",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Bali",
+  "arrivalCity": "Surabaya",
+  "departureAirport": "Ngurah Rai",
+  "arrivalAirport": "Djuanda",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Surabaya",
+  "arrivalCity": "Pontianak",
+  "departureAirport": "Djuanda",
+  "arrivalAirport": "Supadio",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Pontianak",
+  "arrivalCity": "Surabaya",
+  "departureAirport": "Supadio",
+  "arrivalAirport": "Djuanda",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Bali",
+  "arrivalCity": "Pontianak",
+  "departureAirport": "Ngurah Rai",
+  "arrivalAirport": "Supadio",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}
+{
+  "departureCity": "Pontianak",
+  "arrivalCity": "Bali",
+  "departureAirport": "Supadio",
+  "arrivalAirport": "Ngurah Rai",
+  "departureTerminal": "1A",
+  "arrivalTerminal": "1B"
+}

@@ -1,0 +1,6256 @@
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 150"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 151"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 152"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 153"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 154"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 155"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 156"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 157"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 158"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 159"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 160"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 161"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 162"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 163"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 164"
+},
+{
+  "seatNumber": "1A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "1B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "1C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "1D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "1E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "1F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "2A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "2B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "2C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "2D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "2E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "2F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "3A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "3B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "3C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "3D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "3E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "3F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+
+{
+  "seatNumber": "4A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "4B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "4C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "4D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "4E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "4F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "5A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "5B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "5C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "5D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "5E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "5F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "6A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "6B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "6C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "6D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "6E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "6F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "7A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "7B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "7C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "7D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "7E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "7F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "8A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "8B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "8C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "8D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "8E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "8F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "9A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "9B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "9C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "9D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "9E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "9F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "10A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "10B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "10C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "10D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "10E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "10F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "11A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "11B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "11C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "11D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "11E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "11F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "12A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "12B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "12C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "12D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "12E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "12F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "13A",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "13B",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "13C",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "13D",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "13E",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+},
+{
+  "seatNumber": "13F",
+  "seatType": "GREEN",
+  "airplaneName": "JT 165"
+}

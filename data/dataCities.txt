@@ -1,0 +1,20 @@
+{
+  "cityCode": "JKT",
+  "cityName": "Jakarta",
+  "countryCode": "IDN"
+}
+{
+  "cityCode": "SBY",
+  "cityName": "Surabaya",
+  "countryCode": "IDN"
+}
+{
+  "cityCode": "BLI",
+  "cityName": "Bali",
+  "countryCode": "IDN"
+}
+{
+  "cityCode": "PNK",
+  "cityName": "Pontianak",
+  "countryCode": "IDN"
+}

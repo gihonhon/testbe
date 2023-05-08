@@ -1,0 +1,7200 @@
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-07",
+  "arrivalDate": "2022-12-07",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-08",
+  "arrivalDate": "2022-12-08",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-09",
+  "arrivalDate": "2022-12-09",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-10",
+  "arrivalDate": "2022-12-10",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-11",
+  "arrivalDate": "2022-12-11",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-12",
+  "arrivalDate": "2022-12-12",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-13",
+  "arrivalDate": "2022-12-13",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-14",
+  "arrivalDate": "2022-12-14",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-15",
+  "arrivalDate": "2022-12-15",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-16",
+  "arrivalDate": "2022-12-16",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-17",
+  "arrivalDate": "2022-12-17",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-18",
+  "arrivalDate": "2022-12-18",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-19",
+  "arrivalDate": "2022-12-19",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-20",
+  "arrivalDate": "2022-12-20",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-21",
+  "arrivalDate": "2022-12-21",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-22",
+  "arrivalDate": "2022-12-22",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-23",
+  "arrivalDate": "2022-12-23",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-24",
+  "arrivalDate": "2022-12-24",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-25",
+  "arrivalDate": "2022-12-25",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "08:00:00",
+  "arrivalTime": "10:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "10:30:00",
+  "arrivalTime": "12:30:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 100000,
+  "status": "ON TIME",
+  "airplaneName": "JT 150",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 153",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 154",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 155",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00100e8"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "14:00:00",
+  "arrivalTime": "16:00:00",
+  "price": 925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 156",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 157",
+  "routeId": "957d0a3e-cc41-460d-b2a0-c20d7cc62093"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 158",
+  "routeId": "c1ef472e-f05e-43d4-b93c-98d0da41f080"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 159",
+  "routeId": "b98bf4f7-ffb5-42e1-a8ff-56e2c315638e"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 160",
+  "routeId": "61795124-6177-43a2-91d7-2a83641f5e37"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "13:30:00",
+  "arrivalTime": "17:00:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 161",
+  "routeId": "7f605c9c-b6d6-45a8-98a2-30aead1e0f57"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 130000,
+  "status": "ON TIME",
+  "airplaneName": "JT 162",
+  "routeId": "3a6d4e33-ed6d-4c06-b2cb-ac75e75cbcfd"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 163",
+  "routeId": "0a7e6e26-2958-4602-9b84-9e9e0f3c1dcc"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 164",
+  "routeId": "1f265c1b-5f0e-4b62-91eb-ac00ece9cb38"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 165",
+  "routeId": "c7c381c0-868a-497b-9f95-f49ddbcfc7cc"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 166",
+  "routeId": "4c8433db-32bd-409f-b680-f5cd08c5bc27"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 151",
+  "routeId": "186c77d5-9557-489a-927e-e03ae00130e8"
+},
+{
+  "departureDate": "2022-12-26",
+  "arrivalDate": "2022-12-26",
+  "departureTime": "18:00:00",
+  "arrivalTime": "19:30:00",
+  "price": 1925000,
+  "status": "ON TIME",
+  "airplaneName": "JT 152",
+  "routeId": "7b581b18-6e77-44ce-9f85-55dd2f06eb62"
+}

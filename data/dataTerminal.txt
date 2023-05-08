@@ -1,0 +1,32 @@
+{
+  "terminalName": "1A",
+  "iataCode": "CGK"
+}
+{
+  "terminalName": "1B",
+  "iataCode": "CGK"
+}
+{
+  "terminalName": "1A",
+  "iataCode": "DPS"
+}
+{
+  "terminalName": "1B",
+  "iataCode": "DPS"
+}
+{
+  "terminalName": "1A",
+  "iataCode": "SUB"
+}
+{
+  "terminalName": "1B",
+  "iataCode": "SUB"
+}
+{
+  "terminalName": "1A",
+  "iataCode": "PNK"
+}
+{
+  "terminalName": "1B",
+  "iataCode": "PNK"
+}

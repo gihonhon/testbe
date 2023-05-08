@@ -1,0 +1,25 @@
+{
+  "paymentName": "BCA",
+  "paymentType": "Virtual Account",
+  "imagePath": "https://cdn.airpaz.com/rel-0276/payments/idr/140x40/vabca.png"
+}
+{
+  "paymentName": "Mandiri",
+  "paymentType": "Virtual Account",
+  "imagePath": "https://cdn.airpaz.com/rel-0276/payments/idr/140x40/mandiri.png"
+}
+{
+  "paymentName": "QRIS",
+  "paymentType": "Instant Payment",
+  "imagePath": "https://cdn.airpaz.com/rel-0276/payments/idr/140x40/qris.png"
+}
+{
+  "paymentName": "Credit Card",
+  "paymentType": "Credit Card",
+  "imagePath": "https://cdn.airpaz.com/rel-0276/payments/idr/140x40/credit-card.png"
+}
+{
+  "paymentName": "Debit Card",
+  "paymentType": "Debit Card",
+  "imagePath": "https://cdn.airpaz.com/rel-0276/payments/idr/140x40/credit-card.png"
+}
